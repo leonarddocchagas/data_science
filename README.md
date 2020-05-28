@@ -27,7 +27,7 @@ Veja os tutoriais publicados :
 
 ### Sobre mim:
 
-Sou analista de dados desde 2013 na itecnove e meu dia-a-dia é repleto de atividades como coletar, tranformar e analisar dados nos mais variados tipos de negócios.
+Sou um adepto do foco e disciplina. Entusiasta em aprender algo todos os dias dos mais diferentes tipos. Como Steve Jobs falou: "Um dia os pontos se conectam e a mágica acontece". 
 
 * Graduação em Sistemas para Internet.
 * Curso de Operações Espaciais pela Força Aérea do Canadá.
