@@ -5,9 +5,9 @@
 # Leonardo Chagas
 <sub>*Business Analytics | Data Analytics* at Itecnove</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Como consultor de Business Intelligence desde 2013, pude vivenciar a rotina das atividades dos mais diferentes segmentos empresariais por todo Brasil. Trabalho em equipe, liderar projetos, converter dados complexos em insights para suporte a decisão foram algumas das habilidades mais praticadas. 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Storytelling and ETL(extract, transform, load).
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-chagas/)
