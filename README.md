@@ -3,11 +3,9 @@
 </p>
 
 # Leonardo Chagas
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Business Analytics | Data Analytics* at Itecnove</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
@@ -29,11 +27,9 @@ Veja os tutoriais publicados :
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+Sou analista de dados desde 2013 na itecnove e meu dia-a-dia é repleto de coletar, tranformar e analisar dados nos mais variados tipos de negócios.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
+* Graduação em Sistemas para Internet.
 * Curso de Operações Espaciais pela Força Aérea do Canadá.
 
 
