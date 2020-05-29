@@ -30,7 +30,6 @@ Veja os tutoriais publicados :
 Sou um adepto do foco e da disciplina. Entusiasta em aprender algo todos os dias dos mais diferentes tipos. Como Steve Jobs falou: "Um dia os pontos se conectam e a mágica acontece". 
 
 * Graduação em Sistemas para Internet.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
 
 
 
