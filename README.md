@@ -1,6 +1,6 @@
 <p align="center">
   <img src="BannerGithub.png" >
-</p>
+</p> 
 
 # Leonardo Chagas
 <sub>*Business Analytics | Data Analytics* at Itecnove</sub>
