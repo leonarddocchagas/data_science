@@ -17,11 +17,8 @@ Como consultor de Business Intelligence desde 2013, pude vivenciar a rotina das 
 ## Projetos:
 Veja os tutoriais publicados :
 
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Analisando dados do Airbnb:** https://bit.ly/2XZvB9e
+
 
 ---
 
