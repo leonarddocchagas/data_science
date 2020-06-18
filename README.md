@@ -19,6 +19,7 @@ Veja os tutoriais publicados :
 
 * **Analisando dados do Airbnb:** https://bit.ly/2XZvB9e
 * **Explorando Naufrágio do Titanic** https://bit.ly/2XVeWom
+* **Desastres Aéreos** https://bit.ly/2UX7B5M
 
 
 ---
