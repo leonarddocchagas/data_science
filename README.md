@@ -3,7 +3,7 @@
 </p> 
 
 # Leonardo Chagas
-<sub>*Business Analytics | Data Analytics* at Itecnove</sub>
+<sub>*Data Analytics* at Itecnove</sub>
 
 Como consultor de Business Intelligence desde 2013, pude vivenciar a rotina das atividades dos mais diferentes segmentos empresariais por todo Brasil. Trabalho em equipe, liderar projetos, converter dados complexos em insights para suporte a decisão foram algumas das habilidades mais praticadas. 
 
