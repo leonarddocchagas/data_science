@@ -15,7 +15,7 @@ Como consultor de Business Intelligence desde 2013, pude vivenciar a rotina das 
 
 
 ## Projetos:
-Veja os tutoriais publicados :
+Veja os publicados :
 
 * **Analisando dados do Airbnb:** https://bit.ly/2XZvB9e
 * **Explorando Naufrágio do Titanic:** https://bit.ly/2XVeWom
