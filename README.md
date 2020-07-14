@@ -21,7 +21,7 @@ Veja os publicados :
 * **Explorando Naufrágio do Titanic:** https://bit.ly/2XVeWom
 * **Desastres Aéreos:** https://bit.ly/2UX7B5M
 * **Crimes no Rio de Janeiro:** https://bit.ly/3iCygPs
-
+* **Campeonato Brasileiro de Futebol:** https://bit.ly/2DJorPV
 ---
 
 ### Sobre mim:
