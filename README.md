@@ -25,7 +25,7 @@ Veja os publicados :
 * **Unidades Básicas de Saúde - UBS:** https://bit.ly/3f4zro2
 * **CTTU - Autarquia de Trânsito e Transporte Urbano do Recife:** https://bit.ly/2XT94eI
 * **Panorama COVID-19 no Brasil:** https://bit.ly/2FkkTEI
-* **Slave Voyages (em desenvolvimento): 
+* **Slave Voyages (em desenvolvimento): https://bit.ly/3sBOAUG
 ---
 
 ### Sobre mim:
