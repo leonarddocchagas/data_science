@@ -26,9 +26,10 @@ Veja os publicados :
 * **Unidades Básicas de Saúde - UBS:** https://bit.ly/3f4zro2
 * **CTTU - Autarquia de Trânsito e Transporte Urbano do Recife:** https://bit.ly/2XT94eI
 * **Panorama COVID-19 no Brasil:** https://bit.ly/2FkkTEI
-* **Slave Voyages (em desenvolvimento): https://bit.ly/3sBOAUG
----
+* **Slave Voyages (em desenvolvimento)**: https://bit.ly/3sBOAUG
 
+### Modelo de Machine Learning
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2XZvB9e
 
 
 
