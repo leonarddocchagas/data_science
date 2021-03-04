@@ -17,6 +17,7 @@ Em contato com dados desde 2013, atividades como: coletar, transforma e apresent
 ## Projetos:
 Veja os publicados :
 
+# Análise Exploratória:
 * **Analisando dados do Airbnb:** https://bit.ly/2XZvB9e
 * **Explorando Naufrágio do Titanic:** https://bit.ly/2XVeWom
 * **Desastres Aéreos:** https://bit.ly/2UX7B5M
@@ -28,9 +29,7 @@ Veja os publicados :
 * **Slave Voyages (em desenvolvimento): https://bit.ly/3sBOAUG
 ---
 
-### Sobre mim:
 
-Sou um adepto do foco e da disciplina. Entusiasta em aprender algo todos os dias dos mais diferentes tipos. Como Steve Jobs falou: "Um dia os pontos se conectam e a mágica acontece". 
 
 
 
