@@ -29,7 +29,7 @@ Veja os publicados :
 * **Slave Voyages: *(em desenvolvimento)*** https://bit.ly/3sBOAUG
 
 ### Modelo de Machine Learning
-* **Detecção de Fraudes em Cartões de Crédito: *(em desenvolvimento)*** https://bit.ly/3v5DZnk
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
 
 
 
