@@ -27,7 +27,8 @@ Veja os publicados :
 * **CTTU - Autarquia de Trânsito e Transporte Urbano do Recife:** https://bit.ly/2XT94eI
 * **Panorama COVID-19 no Brasil:** https://bit.ly/2FkkTEI
 * **Slave Voyages:** https://bit.ly/3sBOAUG
-* **Formula 1: *(em desenvolvimento)*** https://bit.ly/36d8BIb
+* **Formula 1:** https://bit.ly/36d8BIb
+* **FIFA World CUP: *(em desenvolvimento)*** https://bit.ly/3fczu3P
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
