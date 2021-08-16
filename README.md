@@ -28,8 +28,8 @@ Veja os publicados :
 * **Panorama COVID-19 no Brasil:** https://bit.ly/2FkkTEI
 * **Slave Voyages:** https://bit.ly/3sBOAUG
 * **Formula 1:** https://bit.ly/36d8BIb
-* **FIFA World CUP: *(em desenvolvimento)*** https://bit.ly/3fczu3P
-* **Em Breve: *(em desenvolvimento)***
+* **FIFA World CUP:** https://bit.ly/3fczu3P
+* **Em Breve:** *(em desenvolvimento)***
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
