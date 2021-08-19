@@ -29,7 +29,7 @@ Veja os publicados :
 * **Slave Voyages:** https://bit.ly/3sBOAUG
 * **Formula 1:** https://bit.ly/36d8BIb
 * **FIFA World CUP:** https://bit.ly/3fczu3P
-* **Em Breve:** *(em desenvolvimento)***
+* **Semáforos do Recife:** *(em desenvolvimento)***
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
