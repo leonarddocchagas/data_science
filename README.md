@@ -30,7 +30,7 @@ Veja os publicados :
 * **Formula 1:** https://bit.ly/36d8BIb
 * **FIFA World CUP:** https://bit.ly/3fczu3P
 * **Semáforos do Recife:** https://bit.ly/3ggVtat
-* **Recife Bom de Bola:** *(em desenvolvimento)* 
+* **Recife Bom de Bola:** *(em desenvolvimento)* https://bit.ly/3jBE5iO
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
