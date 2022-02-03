@@ -35,6 +35,7 @@ Veja os publicados :
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
+* **Prevendo Doenças Renais:** https://bit.ly/3rpGReE
 
 
 
