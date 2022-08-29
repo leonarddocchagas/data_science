@@ -31,12 +31,12 @@ Veja os publicados :
 * **FIFA World CUP:** https://bit.ly/3fczu3P
 * **Semáforos do Recife:** https://bit.ly/3ggVtat
 * **Recife Bom de Bola:** https://bit.ly/3jBE5iO
-* **Churn - Clientes Cancelando:** *(em desenvolvimento)* https://bit.ly/3ajmNBE
+* **Churn - Clientes Cancelando:** https://bit.ly/3ajmNBE
 
 ### Modelo de Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3v5DZnk
 * **Prevendo Doenças Renais:** https://bit.ly/3rpGReE
-* **Spam Email Classification:** https://bit.ly/3pTReGk
+* **Spam Email Classification:** *(em desenvolvimento)* https://bit.ly/3pTReGk
 
 
 
